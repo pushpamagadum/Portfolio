@@ -3,7 +3,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: 
 ## Some Images:
-<img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\About me.png"/>
+<img width="450px;" src="https://github.com/pushpamagadum/Portfolio/blob/main/src/images/About%20me.png"/>
 <img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\Skills.png"/>
 <img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\Experience.png"/>
 <img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\Projects.png"/>
