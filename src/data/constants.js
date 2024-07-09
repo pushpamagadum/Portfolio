@@ -267,7 +267,7 @@ export const experiences = [
     role: "Software Engineer",
     company: "Skylux telelink pvt ltd",
     date: "June 2023 - present",
-    desc: "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
+    desc: "I am a full-time software engineer at Skylux Company, specializing in Genesys Cloud CX, ReactJS, NodeJS, PostgreSQL, and JavaScript. ensuring seamless user experiences and efficient system performance. My role involves both front-end and back-end development, utilizing my diverse skill set to contribute to innovative projec",
     skills: [
       "ReactJS",
       "Redux",

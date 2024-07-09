@@ -126,24 +126,26 @@ const ContactButton = styled.input`
 `;
 
 const Contact = () => {
-  const form = useRef();
+  const form = useRef(null);
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    console.log("Form Reference:", form.current);
     emailjs
       .sendForm(
-        "service_tox7kqs",
-        "template_nv7k7mj",
+        "service_o7zll4i",
+        "template_eus4jmk",
         form.current,
-        "SybVGsYS52j2TfLbi"
+        "hPnLmpCBI6-CwTJiY"
       )
       .then(
         (result) => {
           alert("Message Sent");
-          form.current.resut();
+          form.current.reset();
         },
         (error) => {
-          alert(error);
+          console.log("error:",error)
+          alert(error.text);
         }
       );
   };
