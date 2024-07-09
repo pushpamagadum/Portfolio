@@ -3,12 +3,12 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: 
 ## Some Images:
-<img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\About me.png"/>
-<img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\Skills.png"/>
-<img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\Experience.png"/>
-<img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\Projects.png"/>
-<img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\Education.png"/>
-<img width="450px;" src="C:\Users\pushpa\Downloads\pushpamagadum.github.io-master\pushpamagadum.github.io-master\src\images\Footer.png"/>
+<img width="450px;" src="https://github.com/pushpamagadum/Portfolio/blob/main/src/images/About%20me.png"/>
+<img width="450px;" src="https://github.com/pushpamagadum/Portfolio/blob/main/src/images/Education.png"/>
+<img width="450px;" src="https://github.com/pushpamagadum/Portfolio/blob/main/src/images/Experience.png"/>
+<img width="450px;" src="https://github.com/pushpamagadum/Portfolio/blob/main/src/images/Footer.png"/>
+<img width="450px;" src="https://github.com/pushpamagadum/Portfolio/blob/main/src/images/Projects.png"/>
+<img width="450px;" src="https://github.com/pushpamagadum/Portfolio/blob/main/src/images/Skills.png"/>
 
 
 ## Table of Contents
@@ -42,7 +42,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 To run this portfolio locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/pushpamagadum/Portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
+2. Navigate to the project directory: `cd pushpamagadum.github.io-master`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
